@@ -6,11 +6,5 @@
 }
 
 .images-inicio {
-    background-image: linear-gradient(rgba(41, 41, 41, 0.5),rgba (37, 37, 37, 0.9)), url(images/inicio.jpg);
-    background-repeat: no-repeat;
-    background-size: auto auto;
-    height: 105vh;
-    
-
-    
+    height: 50rem;    
 }
