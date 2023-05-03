@@ -4,7 +4,32 @@
     list-style: none;
     font-family: Arial, Helvetica, sans-serif;
 }
+body {
+    background-color: rgba(205, 205, 245, 0.473);
+}
+article {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 15px;
+}
+.produtos-contatos {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 15px;
+}
+.Pedal-leve {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 15px;
+    background-color: rgba(195, 195, 206, 0.712);
+    
+    
+}
 
 .images-inicio {
-    height: 50rem;    
+    display: flex;
+    align-items: center;
+    height: 48rem; 
+
+       
 }
